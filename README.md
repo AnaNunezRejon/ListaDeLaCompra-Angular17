@@ -1,7 +1,7 @@
 
 ![ListadelaCompra](https://github.com/AnaNunezRejon/ListaDeLaCompra-Angular17/assets/140715043/bb5e034c-1269-43c9-b859-23db12fe4035)
 
-# CarritoCompra
+# ListadelaCompra
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0-next.1.
 
